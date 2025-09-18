@@ -1,5 +1,6 @@
-💻 Proyecto Especial
-¡¡LO QUE TU HACES EN 1 DIA YO LO HAGO ENB 72 HORAS!!
+###💻 Proyecto Especial###
+
+#¡¡LO QUE TU HACES EN 1 DIA YO LO HAGO ENB 72 HORAS!!#
 
 ✨ Bienvenido a este repositorio. Aquí encontrarás un trabajo creado con dedicación, organizado y con buenas prácticas de programación.  
 
