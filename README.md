@@ -1,52 +1,69 @@
-# 💻 Proyecto Especial – Código con Propósito
+<h1 align="center">💻 Proyecto Especial</h1>
+<p align="center"><i>"Lo que tú haces en 1 día, yo lo construyo en 72 horas... pero con calidad, pasión y propósito."</i></p>
 
-> ⚡ *"Lo que tú haces en 1 día, yo lo construyo en 72 horas... pero con calidad, orden y pasión."*
-
----
-
-## ✨ ¡Bienvenido!
-
-Gracias por visitar este repositorio.  
-Aquí encontrarás un proyecto desarrollado con **dedicación**, **buenas prácticas** y una estructura clara y profesional.
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-blue" alt="estado">
+  <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-green" alt="contribuciones">
+  <img src="https://img.shields.io/github/license/tuusuario/tu-repo" alt="licencia">
+</p>
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## ✨ Bienvenido
 
-Hola, soy **Programador de Computación e Informática**, un apasionado por la tecnología, el desarrollo de software y la innovación digital.  
-Me encanta crear soluciones que sean:
+¡Gracias por pasar por aquí!  
+Este es un proyecto hecho con ❤️ y mucho código. Está diseñado para ser **funcional**, **escalable** y fácil de entender.
 
-- Claras y funcionales 🧠  
-- Fáciles de mantener 🔧  
-- Visualmente organizadas 📐  
-- Pensadas para escalar 🚀  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+</div>
 
 ---
 
-## ⚙️ Características del Proyecto
+## 🙋‍♂️ Sobre Mí
 
-✅ Código limpio y bien documentado  
-✅ Enfoque en buenas prácticas de desarrollo  
-✅ Arquitectura pensada para escalabilidad  
-✅ Dedicación en cada detalle del código  
+👨‍💻 Soy **Programador de Computación e Informática**, un apasionado de la tecnología que disfruta crear soluciones claras y eficientes.
+
+🚀 Me encanta trabajar en proyectos que combinan:
+
+- ✅ Buenas prácticas
+- ✅ Código limpio
+- ✅ Arquitectura escalable
+- ✅ Experiencia de usuario
+
+---
+
+## 🧠 Características del Proyecto
+
+✨ Interfaz intuitiva  
+🧼 Código organizado y comentado  
+🧩 Modularidad para escalar fácilmente  
+⚙️ Optimizado para rendimiento  
 
 ---
 
 ## 🛠 Tecnologías Utilizadas
 
-- 🧑‍💻 Lenguajes: `Python`, `JavaScript`, `HTML/CSS` (según aplique)  
-- 🛠 Herramientas: `VS Code`, `Git`, `Node.js`, `Postman`, etc.  
-- 📚 Metodologías: `Clean Code`, `Modularización`, `Versionamiento`, etc.  
+| Categoría       | Tecnologías                                           |
+|----------------|--------------------------------------------------------|
+| 💬 Lenguajes   | `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`          |
+| ⚙️ Herramientas | `VS Code`, `Git`, `GitHub`, `Node.js`, `Figma`        |
+| 📐 Metodologías | `Clean Code`, `KISS`, `DRY`, `MVC`, `Scrum`           |
 
-> *(Puedes personalizar esta sección con los stacks específicos que usaste en el proyecto)*
+> *Puedes ajustar esta tabla según lo que usaste realmente*
 
 ---
 
-## 🚀 Instalación y Ejecución
+## 📦 Instalación Rápida
 
-Sigue estos pasos para levantar el proyecto en tu entorno local:
+```bash
+# 1. Clona el repositorio
+git clone https://github.com/tuusuario/tu-repo.git
 
-1. 🔄 Clona el repositorio:  
-   ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+# 2. Entra a la carpeta del proyecto
+cd tu-repo
+
+# 3. Ejecuta el entorno o servidor
+npm install
+npm run dev
 
