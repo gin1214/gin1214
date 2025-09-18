@@ -1,69 +1,79 @@
 <h1 align="center">💻 Proyecto Especial</h1>
-<p align="center"><i>"Lo que tú haces en 1 día, yo lo construyo en 72 horas... pero con calidad, pasión y propósito."</i></p>
+
+<p align="center"><i>"Lo que tú haces en 1 día, yo lo construyo en 72 horas... con ❤️, lógica y calidad." </i></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="coding animated">
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-blue" alt="estado">
-  <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-green" alt="contribuciones">
-  <img src="https://img.shields.io/github/license/tuusuario/tu-repo" alt="licencia">
+  <img src="https://img.shields.io/badge/Estado-En%20progreso-blue" alt="estado">
+  <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen" alt="contribuciones">
+  <img src="https://img.shields.io/badge/Hecho%20con-Pasión-red" alt="pasión">
 </p>
 
 ---
 
-## ✨ Bienvenido
+## 🌟 ¡Bienvenido!
 
-¡Gracias por pasar por aquí!  
-Este es un proyecto hecho con ❤️ y mucho código. Está diseñado para ser **funcional**, **escalable** y fácil de entender.
+¡Hola! 👋 Este repositorio contiene un proyecto hecho con:
+
+- 💡 Creatividad  
+- 💻 Código limpio  
+- 🚀 Mentalidad escalable  
+- ❤️ Mucha pasión por la tecnología
+
+---
+
+## 👨‍💻 Sobre Mí
+
+Soy **Programador de Computación e Informática**, me gusta construir cosas útiles y visualmente claras.
+
+🔍 Mi enfoque:
+
+- Código legible y bien estructurado  
+- Buenas prácticas (Clean Code, KISS, DRY)  
+- Documentación clara para todos  
+- Tecnología al servicio de las ideas
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" alt="developer working">
 </div>
 
 ---
 
-## 🙋‍♂️ Sobre Mí
+## ⚙️ Características del Proyecto
 
-👨‍💻 Soy **Programador de Computación e Informática**, un apasionado de la tecnología que disfruta crear soluciones claras y eficientes.
+✅ Código modular y comentado  
+✅ Enfoque en la escalabilidad  
+✅ Arquitectura limpia  
+✅ Ideal para aprendizaje y mejora continua
 
-🚀 Me encanta trabajar en proyectos que combinan:
-
-- ✅ Buenas prácticas
-- ✅ Código limpio
-- ✅ Arquitectura escalable
-- ✅ Experiencia de usuario
+> ¡Un código que habla por sí solo!
 
 ---
 
-## 🧠 Características del Proyecto
+## 🧰 Tecnologías Usadas
 
-✨ Interfaz intuitiva  
-🧼 Código organizado y comentado  
-🧩 Modularidad para escalar fácilmente  
-⚙️ Optimizado para rendimiento  
-
----
-
-## 🛠 Tecnologías Utilizadas
-
-| Categoría       | Tecnologías                                           |
-|----------------|--------------------------------------------------------|
-| 💬 Lenguajes   | `Python`, `JavaScript`, `HTML`, `CSS`, `SQL`          |
-| ⚙️ Herramientas | `VS Code`, `Git`, `GitHub`, `Node.js`, `Figma`        |
-| 📐 Metodologías | `Clean Code`, `KISS`, `DRY`, `MVC`, `Scrum`           |
-
-> *Puedes ajustar esta tabla según lo que usaste realmente*
+| Tipo            | Tecnologías                                                     |
+|-----------------|------------------------------------------------------------------|
+| 💬 Lenguajes     | `JavaScript`, `Python`, `HTML`, `CSS`                            |
+| 🛠 Herramientas   | `VS Code`, `Git`, `GitHub`, `Node.js`, `Figma`, `Postman`        |
+| 📚 Metodologías  | `SCRUM`, `Clean Code`, `MVC`, `Versionamiento semántico`         |
 
 ---
 
-## 📦 Instalación Rápida
+## 🚀 Instalación Rápida
 
 ```bash
 # 1. Clona el repositorio
 git clone https://github.com/tuusuario/tu-repo.git
 
-# 2. Entra a la carpeta del proyecto
+# 2. Entra al directorio
 cd tu-repo
 
-# 3. Ejecuta el entorno o servidor
+# 3. Instala dependencias (si aplica)
 npm install
-npm run dev
 
+# 4. Ejecuta el proyecto
+npm run dev
