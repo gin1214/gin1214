@@ -1,30 +1,30 @@
-##💻 Proyecto Especial
+## 💻 Proyecto Especial
 
-#¡¡LO QUE TU HACES EN 1 DIA YO LO HAGO ENB 72 HORAS!!
+# ¡¡LO QUE TU HACES EN 1 DIA YO LO HAGO ENB 72 HORAS!!
 
-##✨ Bienvenido a este repositorio. Aquí encontrarás un trabajo creado con dedicación, organizado y con buenas prácticas de programación.  
+## ✨ Bienvenido a este repositorio. Aquí encontrarás un trabajo creado con dedicación, organizado y con buenas prácticas de programación.  
 
 
-🙋 Sobre mí
+# 🙋 Sobre mí
 Soy **Programador de Computación e Informática**, apasionado por la tecnología, el desarrollo de software y la innovación.  
 Me gusta crear proyectos que sean claros, funcionales y fáciles de entender.  
 
 
-⚡ Características del Proyecto
+#⚡ Características del Proyecto
 - Código ordenado y documentado  
 - Enfoque en buenas prácticas de programación  
 - Diseño pensado para ser escalable  
 - Trabajo hecho con dedicación y pasión  
 
 
-🛠 Tecnologías Utilizadas
+# 🛠 Tecnologías Utilizadas
 - Lenguajes de programación  
 - Herramientas de desarrollo  
 - Metodologías aplicadas  
 
 
 
-🚀 Instalación y Uso
+# 🚀 Instalación y Uso
 1. Clonar el repositorio  
 2. Abrir el proyecto en tu editor favorito  
 3. Ejecutar el código según la configuración  
